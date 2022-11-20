@@ -28,7 +28,7 @@ today <- format(Sys.Date(), "%Y%m%d")
 
 # print intermediate figures/tables/reports?
 save_output <- FALSE
-render_reports <- TRUE
+render_reports <- FALSE
 
 # 1. Import and tidy -----------------------------------------------------------
 
